@@ -18,4 +18,6 @@ function sayHiToGrandma(string) {
     return "I can't hear you!";
   } else(string === uppercase) {
       return "HELLO";
-  } else(string === )
+  } else(string === "I love you, Grandma." ) {
+    return "I love you, too.";
+  }
